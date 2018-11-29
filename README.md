@@ -1,2 +1,3 @@
 # ZigZagConversion
-NULL
+Input: s = "PAYPALISHIRING", numRows = 3
+Output: "PAHNAPLSIIGYIR"
